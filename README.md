@@ -17,4 +17,7 @@
 * flutter run
 
 ## 배포
-* 123
+* flutter build web / windows / linux / macos
+* flutter build apk --release --target-platform=android-arm64
+* 아이폰은 Xcode에서
+* 리눅스에서는 환경 설정 추가
